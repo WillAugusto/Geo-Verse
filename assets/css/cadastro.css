@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    background-color: #61826c;
+    color: #F8D492;
+}
+
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+}
+.main-login {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.left-login {
+    padding: 10px;
+    width: 40vw;
+    height: 80vh;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+.right-login > img{
+    margin-right: 0;
+    width: 50vw;
+    height: 90vh;
+}
+
+#botao-login {
+    border-radius: 12px;
+    border: none;
+    background-color: #F8D492;
+    color: #61826c;
+    width: 80px;
+    height: 30px;
+}
+
+#extras{
+    display: flex;
+    margin-left: 16px;
+}
+
+#name{
+    display: flex;
+}
+
+#first-name {
+    width: 200px;
+}
