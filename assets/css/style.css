@@ -34,3 +34,17 @@ h1 {
     width: 50vw;
     height: 90vh;
 }
+
+#botao-login {
+    border-radius: 12px;
+    border: none;
+    background-color: #F8D492;
+    color: #61826c;
+    width: 80px;
+    height: 30px;
+}
+
+#extras{
+    display: flex;
+    margin-left: 16px;
+}
