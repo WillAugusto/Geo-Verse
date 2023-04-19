@@ -7,5 +7,6 @@ Basico da página de Login feito:
 
 Basico da pagina de cadastro feito:
 
-![image](https://user-images.githubusercontent.com/112099541/232890090-753efbfc-1f9d-4366-81cd-ee46d34a261a.png)
+![image](https://user-images.githubusercontent.com/112099541/233214811-b0ea77e2-9698-4edd-8d50-b4d7699bbcfc.png)
+
 
